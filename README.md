@@ -19,7 +19,5 @@ There are seven scripts at `/main` with different utilities:
 * `main.py` uses a pre-trained model to live trade using Binance API
 * `optimize.py` is a set of helper functions to find the best model and parameter tuning
 
-### Results
-Using this algorithms for predicting Bitcoin price direction in March 2021 
-resulted in low precision overall (55% in best cases). This is just a simple
-implementation of the paper and should not be used for real trading purposes.
+### Disclaimer
+There are no warranties expressed or implied in this repository. I am not responsible for anything done with this program. You assume all responsibility and liability. Use it at your own risk.  
